@@ -1,0 +1,14 @@
+{
+  "best_model": "SVM(RBF)",
+  "Model": "SVM(RBF)",
+  "Accuracy": 0.9886363636363636,
+  "Macro_F1": 0.9886735002267737,
+  "CV_Acc_mean": 0.9881818181818183,
+  "CV_Acc_std": 0.003636363636363624,
+  "Noise_0.25_Acc": 0.9245454545454546,
+  "Range_temperature": 0.9848484848484849,
+  "Range_humidity": 0.9636363636363636,
+  "Range_rainfall": 0.9757575757575757,
+  "Robust_score": 0.9624915824915825,
+  "Time_s": 4.384406566619873
+}
